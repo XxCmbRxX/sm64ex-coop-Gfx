@@ -25,3 +25,7 @@ rsync -r RENDER96-HD-TEXTURE-PACK/gfx /storage/emulated/0/com.owokitty.sm64excoo
  ```
 
 # Y listo ya tendremos las texturas que pesan alrededor de 980MB
+
+## Sígueme En redes sociales para estar al tanto
+* [Facebook](https://www.facebook.com/profile.php?id=100087203207899&mibextid=ZbWKwL "MIGUEL RAMOS")
+* [YouTube](https://youtube.com/@miguelrmos64)
