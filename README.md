@@ -15,7 +15,10 @@ pkg install git
 
 # después pondremos estos comandos para la instalación 
 ```bash
-pkg install rsync mkdir -p /storage/emulated/0/com.owokitty.sm64excoop/dynos/packs
+pkg install rsync 
+```
+```bash
+mkdir -p /storage/emulated/0/com.owokitty.sm64excoop/dynos/packs
 ```
 ```bash
 git clone -b sm64ex-and-others https://github.com/pokeheadroom/RENDER96-HD-TEXTURE-PACK.git
