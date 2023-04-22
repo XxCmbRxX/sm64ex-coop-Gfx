@@ -11,7 +11,7 @@ termux-setup-storage
 ```bash
 pkg install git
 ```
-#le daremos en `y` cada que nos pregunte 
+# le daremos en `y` cada que nos pregunte 
 
 # después pondremos estos comandos para la instalación 
 ```bash
