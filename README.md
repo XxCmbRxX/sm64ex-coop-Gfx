@@ -31,4 +31,4 @@ rsync -r RENDER96-HD-TEXTURE-PACK/gfx /storage/emulated/0/com.owokitty.sm64excoo
 
 ## Sígueme En redes sociales para estar al tanto
 
-* [YouTube](https://youtube.com/@miguelrmos64)
+* [YouTube](https://youtube.com/@XxCmbRxX)
